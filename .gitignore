@@ -1,0 +1,7 @@
+.idea/
+*.iml
+/jcache-crud-mongodb/target/
+/jcache-crud-core/target/
+/jcache-stored-implementation/
+/target/*
+!pom.xml
